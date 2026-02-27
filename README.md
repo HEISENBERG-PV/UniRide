@@ -52,11 +52,3 @@ This creates an affordable, eco-friendly, and community-driven commuting solutio
 **Version Control:** Git & GitHub  
 
 ---
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/uniride.git
-cd uniride
