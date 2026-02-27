@@ -45,9 +45,9 @@ This creates an affordable, eco-friendly, and community-driven commuting solutio
 
 ## 🛠️ Tech Stack
 
-**Frontend:** (Add your frontend technology here)  
-**Backend:** (Add your backend technology here)  
-**Database:** (Add your database here)  
+**Frontend:** HTML, CSS, JS 
+**Backend:** NODEJS, EXPRESS
+**Database:** MONGODB 
 **Authentication:** College Email Verification  
 **Version Control:** Git & GitHub  
 
